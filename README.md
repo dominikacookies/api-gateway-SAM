@@ -1,0 +1,4 @@
+- download SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html
+- npm run synth
+- npm run local
+- docker run -p 8000:8000 amazon/dynamodb-local
